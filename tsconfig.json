@@ -2,7 +2,7 @@
     "compilerOptions": {
         "outDir": "dist/js",
         "target": "ES6",
-        "noEmitHelpers": true,
+        "noEmitOnError": true,
         "noImplicitAny": true
     },
     "include": ["app/**/*"]
